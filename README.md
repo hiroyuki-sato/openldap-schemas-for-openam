@@ -9,8 +9,9 @@ Overview
 
 Usage
 ------
-### Copy schemas file 
-* into /etc/openldap/slapd.d/cn=config/cn=schema
+### Copy schema file 
+
+* Copy schema file(cn={99}openam.ldif) into /etc/openldap/slapd.d/cn=config/cn=schema
 
 ### Modify cn={1}core.ldif 
 
